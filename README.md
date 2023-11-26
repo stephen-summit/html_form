@@ -1,2 +1,2 @@
 # html_form
-Basic html form for user interface
+Html  form for job application
